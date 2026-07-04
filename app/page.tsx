@@ -94,10 +94,10 @@ export default function Home() {
               <div className="absolute -inset-4 bg-gradient-to-br from-amber-100 via-transparent to-gray-200 rounded-2xl -z-10" />
               <div className="absolute -bottom-3 -right-3 w-full h-full border-2 border-amber-600/30 rounded-2xl -z-10" />
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-03-29%20at%2012.26.17-1gJ02AuHit2Fv1Gomn0X5s6ekBdqrK.jpeg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hero.jpg-ujHvYDbgWBvS68TrkQXoBLcd08qLxJ.jpeg"
                 alt="Sidi ReSource founder"
                 width={600}
-                height={700}
+                height={800}
                 className="w-full h-auto rounded-2xl shadow-2xl object-cover"
               />
             </div>
