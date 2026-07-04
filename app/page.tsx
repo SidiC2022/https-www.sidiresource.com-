@@ -3,15 +3,15 @@ import Link from "next/link"
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#f5f5f5]">
+    <main className="min-h-screen bg-[#fafaf9]">
       {/* Header with Logo */}
-      <header className="w-full px-6 py-8 md:px-12 lg:px-20 flex items-center justify-between">
+      <header className="w-full px-6 py-8 md:px-12 lg:px-20 flex items-center justify-between gap-6">
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-03-29%20at%2012.42.48-vuQG0jRQTZpiwpG9VhDCKNr1YxYtFF.jpeg"
           alt="Sidi ReSource Trading & Consultancy"
-          width={500}
-          height={200}
-          className="h-auto w-72 md:w-80 lg:w-96"
+          width={700}
+          height={280}
+          className="h-auto w-96 md:w-[28rem] lg:w-[32rem]"
           priority
         />
         <Link 
