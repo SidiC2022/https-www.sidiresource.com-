@@ -11,7 +11,7 @@ export default function Home() {
           alt="Sidi ReSource Trading & Consultancy"
           width={700}
           height={280}
-          className="h-auto w-96 md:w-[28rem] lg:w-[32rem]"
+          className="h-auto w-96 md:w-[28rem] lg:w-[32rem] mix-blend-multiply"
           priority
         />
         <Link 
