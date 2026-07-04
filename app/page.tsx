@@ -157,9 +157,16 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="w-full border-t border-white/10 bg-[#0a0c10]">
-        <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-12 py-8">
-          <p className="text-sm text-gray-500 text-center">
+      <footer className="w-full border-t-4 border-amber-500 bg-[#f2f0eb]">
+        <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-12 py-12 flex flex-col items-center gap-6">
+          <Image
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-07-04%20at%2023.39.00-Y6dSTg3Ycez4S3NySWEF1wKLAKYtEZ.jpeg"
+            alt="Sidi ReSource Trading & Consultancy"
+            width={900}
+            height={230}
+            className="h-auto w-72 md:w-96 mix-blend-multiply"
+          />
+          <p className="text-sm text-gray-600 text-center">
             © {new Date().getFullYear()} Sidi ReSource Trading & Consultancy. All rights reserved.
           </p>
         </div>
