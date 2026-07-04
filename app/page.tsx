@@ -41,7 +41,7 @@ export default function Home() {
               </p>
               
               <p>
-                We believe that the circular economy is no longer a goal—it is the new global standard. Achieving it, however, requires more than just a vendor; it requires the right ally. Whether you are looking for a reliable gateway into international markets or a technical architect to refine your internal operations, we bridge the gap between raw material and refined value.
+                We believe that the circular economy is no longer a goal it is the new global standard. Achieving it, however, requires more than just a vendor; it requires the right ally. Whether you are looking for a reliable gateway into international markets or a technical architect to refine your internal operations, we bridge the gap between raw material and refined value.
               </p>
               
               <p>
