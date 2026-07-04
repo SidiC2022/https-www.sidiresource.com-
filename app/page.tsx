@@ -8,13 +8,13 @@ export default function Home() {
       <header className="w-full border-b border-white/10 bg-[#0a0c10]/80 backdrop-blur-sm sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-12 py-4 flex items-center justify-between gap-6">
           <Link href="/" className="shrink-0">
-            <span className="inline-flex items-center rounded-lg bg-white px-3 py-2">
+            <span className="inline-flex items-center rounded-lg bg-white px-4 py-2.5">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-03-29%20at%2012.42.48-vuQG0jRQTZpiwpG9VhDCKNr1YxYtFF.jpeg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-07-04%20at%2023.39.00-Y6dSTg3Ycez4S3NySWEF1wKLAKYtEZ.jpeg"
                 alt="Sidi ReSource Trading & Consultancy"
-                width={400}
-                height={160}
-                className="h-10 w-auto md:h-12 mix-blend-multiply"
+                width={900}
+                height={230}
+                className="h-14 w-auto md:h-16 mix-blend-multiply"
                 priority
               />
             </span>
@@ -160,11 +160,11 @@ export default function Home() {
       <footer className="w-full border-t-4 border-amber-500 bg-[#f2f0eb]">
         <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-12 py-12 flex flex-col items-center gap-6">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-07-04%20at%2023.39.00-Y6dSTg3Ycez4S3NySWEF1wKLAKYtEZ.jpeg"
-            alt="Sidi ReSource Trading & Consultancy"
-            width={900}
-            height={230}
-            className="h-auto w-72 md:w-96 mix-blend-multiply"
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-07-04%20at%2023.39.00%20%281%29-M9mf477wjYboN1Broymia2J05xyLv0.jpeg"
+            alt="Sidi ReSource Trading & Consultancy — Metals, Sustainability, Recycling, Sourcing"
+            width={1960}
+            height={280}
+            className="h-auto w-full max-w-3xl mix-blend-multiply"
           />
           <p className="text-sm text-gray-600 text-center">
             © {new Date().getFullYear()} Sidi ReSource Trading & Consultancy. All rights reserved.
